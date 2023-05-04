@@ -1,4 +1,4 @@
-package org.example;
+package org.ArgProg;
 
 import javax.swing.*;
 import java.sql.*;

@@ -1,6 +1,4 @@
-package org.example;
-
-import com.mysql.cj.MysqlConnection;
+package org.ArgProg;
 
 import java.io.IOException;
 import java.sql.SQLException;

@@ -1,4 +1,4 @@
-package org.example;
+package org.ArgProg;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
